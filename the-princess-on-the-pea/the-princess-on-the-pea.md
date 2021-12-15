@@ -1,10 +1,10 @@
-## jan lawa meli en kili lili
+## jan lawa meli lon kili lili
 
 <!--
 
 ## opener
 
-ni li lipu kalama pi lipu "jan lawa meli en kili lili"
+ni li lipu kalama pi lipu "jan lawa meli lon kili lili"
 
 > Originally by Hans Christian Andersen
 
