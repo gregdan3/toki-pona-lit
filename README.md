@@ -12,6 +12,14 @@ written exclusively in toki pona (toki pona taso) do not have comments.
   - [With Original Text](./goodnight-moon/goodnight-moon.md)
   - [toki pona taso](./goodnight-moon/goodnight-moon.tp.md)
   - [Narration](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)
+- The Princess on the Pea
+  - [With Original Text](./the-princess-on-the-pea/the-princess-on-the-pea.md)
+  - [taki pona taso](./the-princess-on-the-pea/the-princess-on-the-pea.tp.md)
+
+### Music
+- Homeward Bound, by Marta Keen
+  - [With Original Text](./homeward-bound/homeward-bound.md)
+  - [toki pona taso](./homeward-bound/homeward-bound.tp.md)
 
 ---
 
