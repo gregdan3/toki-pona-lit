@@ -8,6 +8,9 @@ written exclusively in toki pona (toki pona taso) do not have comments.
 
 ## Translations
 ### Books
+- The Fisherman and His Wife
+  - [With Original Text](./the-fisherman-and-his-wife/the-fisherman-and-his-wife.md)
+  - [taki pona taso](./the-fisherman-and-his-wife/the-fisherman-and-his-wife.tp.md)
 - Goodnight Moon, by Margaret Wise Brown
   - [With Original Text](./goodnight-moon/goodnight-moon.md)
   - [toki pona taso](./goodnight-moon/goodnight-moon.tp.md)
