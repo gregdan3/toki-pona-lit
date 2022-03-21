@@ -6,18 +6,22 @@ My translation notes are in the raw markdown documents in HTML comments.
 Comments below a line refer to that line. Comments above a line are meta. Texts
 written exclusively in toki pona (toki pona taso) do not have comments.
 
+## Scripts
+### My Videos
+- 
+
 ## Translations
 ### Books
 - The Fisherman and His Wife
   - [With Original Text](./the-fisherman-and-his-wife/the-fisherman-and-his-wife.md)
-  - [taki pona taso](./the-fisherman-and-his-wife/the-fisherman-and-his-wife.tp.md)
+  - [toki pona taso](./the-fisherman-and-his-wife/the-fisherman-and-his-wife.tp.md)
 - Goodnight Moon, by Margaret Wise Brown
   - [With Original Text](./goodnight-moon/goodnight-moon.md)
   - [toki pona taso](./goodnight-moon/goodnight-moon.tp.md)
   - [Narration](https://www.youtube.com/watch?v=Q2UIw8PZsZ8)
 - The Princess on the Pea
   - [With Original Text](./the-princess-on-the-pea/the-princess-on-the-pea.md)
-  - [taki pona taso](./the-princess-on-the-pea/the-princess-on-the-pea.tp.md)
+  - [toki pona taso](./the-princess-on-the-pea/the-princess-on-the-pea.tp.md)
 
 ### Music
 - Homeward Bound, by Marta Keen
