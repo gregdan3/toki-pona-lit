@@ -29,7 +29,7 @@ Pona, these are either marked as "phrase LA sentence" or "sentence LON phrase". 
 | and the sky is clear and red,           | lon sewi loje a          | when (in) the red sky (emotional)      |
 | When the summer's ceased it's gleaming, | lon tenpo pi seli pini   | at the time of ending warmth           |
 | When the corn is past its prime,        | lon ike pi moku pan      | when the bread is bad                  |
-| When adventure's lost its meaning,      | lon pini pi pilin wawa   | when my strong feeling ends            |
+| When adventure's lost its meaning,      | lon pini pi wile ni      | when this want ends                    |
 | I'll be homeward bound in time.         | mi tawa tomo mi          | I travel to my home                    |
 | Bind me not to the pasture              | o awen ala mi            | do not stay me                         |
 | Chain me not to the plow                | o pona e nasin mi        | help my path                           |
